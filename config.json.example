@@ -1,0 +1,12 @@
+{
+  "telegram": {
+    "chat_id": "YOUR_CHAT_ID",
+    "token": "YOUR_BOT_TOKEN",
+    "url": "https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage"
+  },
+  "threshold": {
+    "cpu_threshold": 80,
+    "mem_threshold": 80,
+    "disk_threshold": 80
+  }
+}
