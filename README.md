@@ -61,7 +61,7 @@ Copy `config.json.example` to `config.json` and fill in your values:
 
 ```bash
 pip install psutil prometheus_client flask requests
-python test_1.py
+python exporter.py
 ```
 
 Endpoints:
